@@ -1,0 +1,14 @@
+D:\desktop\homeworkGitRemote1\task1\bin\Debug\net7.0\task1.exe
+D:\desktop\homeworkGitRemote1\task1\bin\Debug\net7.0\task1.deps.json
+D:\desktop\homeworkGitRemote1\task1\bin\Debug\net7.0\task1.runtimeconfig.json
+D:\desktop\homeworkGitRemote1\task1\bin\Debug\net7.0\task1.dll
+D:\desktop\homeworkGitRemote1\task1\bin\Debug\net7.0\task1.pdb
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\task1.AssemblyInfoInputs.cache
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\task1.AssemblyInfo.cs
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\task1.csproj.CoreCompileInputs.cache
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\task1.dll
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\refint\task1.dll
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\task1.pdb
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\task1.genruntimeconfig.cache
+D:\desktop\homeworkGitRemote1\task1\obj\Debug\net7.0\ref\task1.dll
